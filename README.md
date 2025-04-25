@@ -43,15 +43,14 @@ Train-Validation-Test Split: Divides data into training (64%), validation (16%),
 
 **Performance Metrics**
 **For the most recent test run:**
-MetricValue
-Mean Squared Error	30.11
-Root Mean Squared Error	5.49
-Average Percentage Difference	0.34%
-Training Time	~2-3 minutes
-Data Points Processed	8,869 sequences
-Training Set Size	5,676 sequences
-Validation Set Size	1,419 sequences
-Test Set Size	1,774 sequences
+**Mean Squared Error:** 30.11
+**Root Mean Squared Error:**	5.49
+**Average Percentage Difference:**	0.34%
+**Training Time:**	~2-3 minutes
+**Data Points Processed:**	8,869 sequences
+**Training Set Size:**	5,676 sequences
+**Validation Set Size:**	1,419 sequences
+**Test Set Size:** 1,774 sequences
 
 
 # Usage
