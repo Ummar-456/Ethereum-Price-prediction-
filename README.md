@@ -72,20 +72,21 @@ The script generates three key visualizations:
 3. Price Differences
 
 # Limitations
-**Short-term Focus:** The model is designed for short-term predictions and may not capture long-term trends
-**Limited Features:** Currently only uses closing prices without additional technical indicators
-**Market Sensitivity:** Cryptocurrency markets are highly volatile and can be influenced by external factors not captured in historical data
-**Data Availability:** Relies on the quality and availability of data from Yahoo Finance
-**Fixed Sequence Length:** Uses a fixed window of 60 time steps which may not be optimal for all market conditions
+**Short-term Focus:** The model is designed for short-term predictions and may not capture long-term trends.
+**Limited Features:** Currently only uses closing prices without additional technical indicators.
+**Market Sensitivity:** Cryptocurrency markets are highly volatile and can be influenced by external factors not captured in historical data.
+**Data Availability:** Relies on the quality and availability of data from Yahoo Finance.
+**Fixed Sequence Length:** Uses a fixed window of 60 time steps which may not be optimal for all market conditions.
 
 **Future Improvements**
 **Feature Engineering:** Incorporate additional features such as volume etc.
-**Hyperparameter Optimization:**  Implement grid search or Bayesian optimization for hyperparameter tuning
-**Ensemble Methods:** Combine predictions from multiple models for improved accuracy
-**Attention Mechanisms:** Implement attention layers to focus on the most relevant time steps
-**Sentiment Analysis: ** Integrate social media sentiment data to capture market psychology
-**Real-time Predictions:** Develop a real-time prediction system with automated trading signals
-**Transfer Learning:** Pre-train on related cryptocurrencies to improve performance
+**Hyperparameter Optimization:**  Implement grid search or Bayesian optimization for hyperparameter tuning.
+**Ensemble Methods:** Combine predictions from multiple models for improved accuracy.
+**Attention Mechanisms:** Implement attention layers to focus on the most relevant time steps.
+**Sentiment Analysis: ** Integrate social media sentiment data to capture market psychology.
+**Real-time Predictions:** Develop a real-time prediction system with automated trading signals.
+**Transfer Learning:** Pre-train on related cryptocurrencies to improve performance.
+
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 # Fork the repository
