@@ -2,8 +2,8 @@ Ethereum Price Prediction with LSTM Neural Networks
 This repository implements a deep learning solution for predicting Ethereum (ETH) cryptocurrency prices using Long Short-Term Memory (LSTM) neural networks. The model analyzes historical price data at 5-minute intervals to forecast short-term price movements, providing valuable insights for traders and investors in the volatile cryptocurrency market.
 
 # Table of Contents
-1- Features
-Technical Architecture
+1- Features.
+2- Technical Architecture
 Data Pipeline
 Model Architecture
 Performance Metrics
