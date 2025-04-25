@@ -1,0 +1,8 @@
+Python 3.7+
+TensorFlow 2.x
+Keras
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
